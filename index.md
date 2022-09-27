@@ -15,10 +15,10 @@
  * [ferienKREATIV: Musikwerkstatt – Mach Deinen Song!](https://www.treffpunktfreizeit.de/angebote/ferienkreativ-musikwerkstatt-mach-deinen-song/); 1.-4. November; täglich 10.00-16.00 Uhr; 75 Euro
  * [ferienAKTIV: Parkour – Die Kunst der Fortbewegung](https://www.treffpunktfreizeit.de/angebote/ferienaktiv-parkour-die-kunst-der-fortbewegung/); 1.-4. November; täglich 9.00-12.00 Uhr; 40 Euro
  * [ferienKREATIV: Keramikwerkstatt – Traumhäuser](https://www.treffpunktfreizeit.de/angebote/ferienkreativ-keramikwerkstatt-fruehlingsfreude/); 1.-4. November; täglich 9.00-15.00 Uhr; 60 Euro
- * [ferienKREATIV: Nähwerkstatt – Sachen selbst genäht](https://www.treffpunktfreizeit.de/angebote/ferienkreativ-naehwerkstatt-sachen-selbst-genaeht/), 1.-4. November, täglich 10.00 -13.00 Uhr; 40 Euro
- * [Fußball-Herbstcamp Potsdam 2](https://www.die-runde-fussballschule.de/angebote/feriencamps/herbstcamp-potsdam-2-2022); 1.-4. November, täglich 9:00-16:00 Uhr, 159 Euro
- * [Kids & Youth-Athletic-Camps](https://potsdamer-laufclub.de/training/kids-athletics-camps/); 1.-4. November 2022 (Anmeldung bis 21.10.2022), 50 Euro
- * [Mit den Augen besser hören - Gebärdensprache](https://vhs.potsdam.de/vhsneu/programm/kurs/Mit+den+Augen+besser+hoeren+-+Gebaerdensprache/nr/H22-4Q103J/bereich/details/), 2.-4. November, täglich 9:30 - 12:45 Uhr; 69,40 Euro
+ * [ferienKREATIV: Nähwerkstatt – Sachen selbst genäht](https://www.treffpunktfreizeit.de/angebote/ferienkreativ-naehwerkstatt-sachen-selbst-genaeht/); 1.-4. November; täglich 10.00 -13.00 Uhr; 40 Euro
+ * [Fußball-Herbstcamp Potsdam 2](https://www.die-runde-fussballschule.de/angebote/feriencamps/herbstcamp-potsdam-2-2022); 1.-4. November; täglich 9:00-16:00 Uhr; 159 Euro
+ * [Kids & Youth-Athletic-Camps](https://potsdamer-laufclub.de/training/kids-athletics-camps/); 1.-4. November 2022 (Anmeldung bis 21.10.2022); 50 Euro
+ * [Mit den Augen besser hören - Gebärdensprache](https://vhs.potsdam.de/vhsneu/programm/kurs/Mit+den+Augen+besser+hoeren+-+Gebaerdensprache/nr/H22-4Q103J/bereich/details/), 2.-4. November; täglich 9:30 - 12:45 Uhr; 69,40 Euro
 
 ## Eher kurze Geschichten
  * [Veranstaltungen im Nomadenland im Volkspark Potsdam](http://www.nomadenland.de/jurte-veranstaltungen-2022/)
