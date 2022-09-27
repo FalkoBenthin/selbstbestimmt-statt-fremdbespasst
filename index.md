@@ -1,6 +1,10 @@
- * [ Die Welt in einer Kartoffel - Deutsch-polnische Kinderbegegnung ](https://hochdrei.org/index.php?article_id=38&clang=0&seminar_id=493), 22.-29. Oktober, 175 Euro (mit Übernachtungen)
- * [ Nähen macht Spaß ](https://vhs.potsdam.de/vhsneu/programm/kurs/Naehen+macht+Spass/nr/H22-2F205J/bereich/details/), 24.-26. Oktober, täglich 10:00-12:15 Uhr, 53,80 Euro
- [[ https://www.treffpunktfreizeit.de/angebote/ferienkreativ-geschichten-drachen-und-fabelwesen-reisen-in-die-welt-der-fantasie/|ferienKREATIV: Geschichten, Drachen und Fabelwesen – Reisen in die Welt der Fantasie ]], 24.-27. Oktober, täglich 09.00-12.00 Uhr, 40 bis 60 Euro
+ ---
+layout: default
+---
+
+ * [Die Welt in einer Kartoffel - Deutsch-polnische Kinderbegegnung](https://hochdrei.org/index.php?article_id=38&clang=0&seminar_id=493), 22.-29. Oktober, 175 Euro (mit Übernachtungen)
+ * [Nähen macht Spaß](https://vhs.potsdam.de/vhsneu/programm/kurs/Naehen+macht+Spass/nr/H22-2F205J/bereich/details/), 24.-26. Oktober, täglich 10:00-12:15 Uhr, 53,80 Euro
+ * [ferienKREATIV: Geschichten, Drachen und Fabelwesen – Reisen in die Welt der Fantasie](https://www.treffpunktfreizeit.de/angebote/ferienkreativ-geschichten-drachen-und-fabelwesen-reisen-in-die-welt-der-fantasie/), 24.-27. Oktober, täglich 09.00-12.00 Uhr, 40 bis 60 Euro
  [[ https://vhs.potsdam.de/vhsneu/programm/kurs/Java+fuer+Anfaengerinnen+-+Computerprogramme+selbst+schreiben/nr/H22-5D265J/bereich/details/|Java für Anfänger*innen - Computerprogramme selbst schreiben ]], täglich 24.-27. Oktober, 09:30 - 12:45 Uhr, 80,70 Euro
  [[ https://www.kunstgriff23.de/2021/10/04/herbst-ferien-kurs-2021/|Philosophisches Buchstaben • Illu • Comic • Mix • Kunstprojekt ]], 23. & 24. Oktober, 9.30-13:00 Uhr, 135 Euro
  [[ https://www.treffpunktfreizeit.de/angebote/ferientanz-ferientanzwoche-n17-ruhe-stoerung/|ferienTANZ: FerienTanzWoche N°18 „Ruhe – Störung“ ]], 24.-28. Oktober, täglich 09.00-16.00 Uhr, kostenfrei
