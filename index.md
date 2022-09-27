@@ -23,7 +23,7 @@
 ## Eher kurze Geschichten
  * [Veranstaltungen im Nomadenland im Volkspark Potsdam](http://www.nomadenland.de/jurte-veranstaltungen-2022/)
  * [Ferienkino Thalia](https://www.thalia-potsdam.de/kinderjugend/ferienkino/)
- * [Ferien in der Biosphäre Potsdam (Tierfütterungen, Palmenfrühstück](https://www.biosphaere-potsdam.de/kalender/ferienprogramm/)
+ * [Ferien in der Biosphäre Potsdam (Tierfütterungen, Palmenfrühstück)](https://www.biosphaere-potsdam.de/kalender/ferienprogramm/)
 
 ##### blabla
 Ich kann mich vertippt haben, also bitte Daten, Preise etc. selbst prüfen. HochDrei e.V. ist mein Verein.
