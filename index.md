@@ -1,7 +1,3 @@
- ---
-layout: default
----
-
 ## Längeres, meist über mehrere Tage
  * [Die Welt in einer Kartoffel - Deutsch-polnische Kinderbegegnung](https://hochdrei.org/index.php?article_id=38&clang=0&seminar_id=493), 22.-29. Oktober, 175 Euro (mit Übernachtungen)
  * [Nähen macht Spaß](https://vhs.potsdam.de/vhsneu/programm/kurs/Naehen+macht+Spass/nr/H22-2F205J/bereich/details/), 24.-26. Oktober, täglich 10:00-12:15 Uhr, 53,80 Euro
