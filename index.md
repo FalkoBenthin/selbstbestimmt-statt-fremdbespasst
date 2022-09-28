@@ -23,6 +23,7 @@
  * [Mit den Augen besser hören - Gebärdensprache](https://vhs.potsdam.de/vhsneu/programm/kurs/Mit+den+Augen+besser+hoeren+-+Gebaerdensprache/nr/H22-4Q103J/bereich/details/), 2.-4. November; täglich 9:30 - 12:45 Uhr; 69,40 Euro
 
 ## Eher kurze Geschichten
+ * [Hubertusfest am Jagdschloss Stern](http://jagdschloss-stern.de/Stall/events/hubertusfest-am-jagdschloss-stern/); 5. November; 14:00-16:00 Uhr; kostenfrei
  * [Veranstaltungen im Nomadenland im Volkspark Potsdam](http://www.nomadenland.de/jurte-veranstaltungen-2022/)
  * [Ferienkino Thalia](https://www.thalia-potsdam.de/kinderjugend/ferienkino/)
  * [Ferien in der Biosphäre Potsdam (Tierfütterungen, Palmenfrühstück)](https://www.biosphaere-potsdam.de/kalender/ferienprogramm/)
