@@ -1,4 +1,4 @@
 # Selbstbestimmt statt fremdbespaßt
 
-## Links für die Herbstferien
+## Links für die Sommerferien
 
