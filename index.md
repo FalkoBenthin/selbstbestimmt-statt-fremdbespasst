@@ -31,6 +31,7 @@
  * [Schmeckt nach Sommer! - Deutsch-polnische Kinderbegegnung](https://hochdrei.org/index.php?article_id=38&clang=0&seminar_id=561); 19.-26.08.2023 (mit Übernachtung); 175,- Euro
  * [Manga zeichnen](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-2D220J/kursname/Manga%20zeichnen/kategorie-id/229/#inhalt); 21.-22.08.2023 (10:00-14:00 Uhr); 42,- Euro 
  * [Fußballcamp im Volkspark](https://volkspark-potsdam.de/feriencamps/fussballcamps/); 21.–25.08.2023 (Montag bis Freitag 09:00–16:00 Uhr); 189,- Euro
+ * [Zirkuswoche im Werkhaus Potsdam](https://buchen.inwole.de/werkhauspotsdam/adjax/); 21.-25.08.2023 (09:00-16:00 Uhr); kostenlos
  * [Sommer Ferien Kurse 2023 :: Klangfarben](https://www.kunstgriff23.de/2023/04/05/sommer-ferien-kurs-2021/); 21.-25.07.2023 (09:30-13:00 Uhr); 235,- Euro
  * [Girls Camp](https://lindenpark.de/events/girls-camp-2/); 21.-25.08.2023 (10:00-15:00 Uhr); 90,- Euro
  * [Schauspielworkshop - Der Fluch der Kokosnuss](https://www.activityschauspielschule.de/workshops/schauspielworkshop-sommerferien-2023-ab-10-jahren-4/); 21.-25.08.2023 (10:00-14:00 Uhr); zwischen 196,- und 245,- Euro
