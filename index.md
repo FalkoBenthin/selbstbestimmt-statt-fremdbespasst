@@ -8,6 +8,7 @@
  * [Sommer Ferien Kurse 2023 :: Klangfarben](https://www.kunstgriff23.de/2023/04/05/sommer-ferien-kurs-2021/); 17.-21.07.2023 (09:30-13:00 Uhr); 235,- Euro
  * [Schauspielworkshop - Hotzenplotz](https://www.activityschauspielschule.de/workshops/schauspielworkshop-sommerferien-2023-ab-10-jahren/); 17.-21.07.2023 (10:00-14:00 Uhr); zwischen 196,- Euro und 245,- Euro 
  * [Zirkusferien im Volkspark](https://volkspark-potsdam.de/feriencamps/circus-montelino-ferienwochen/); 17.–21.07.2023 (Montag bis Freitag, 10:00–16:00 Uhr); 125,- Euro
+ * [Stadt der Kinder](http://www.stadtderkinder-potsdam.de/); 17.-23.07.2023 (09:00-16:00 Uhr); kostenfrei
  * [Summer Park Move #1](https://lindenpark.de/events/summer-park-move-1/); 18.-20.07.2023 (09:00-15:00 Uhr); 40,- Euro
  * [10-Finger-System an zwei Vormittagen](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-5D220J/kursname/10-Finger-System%20an%20zwei%20Vormittagen/kategorie-id/229/#inhalt); 24.-25.07.2023 (09:00-12:15 Uhr); 56,90 Euro
  * [??? ! - Chinesisch A1](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-4M301J/kursname/-%20Chinesisch%20A1/kategorie-id/229/#inhalt); 24.-26.07.2023 (09:30-12:45 Uhr); 49,- Euro
