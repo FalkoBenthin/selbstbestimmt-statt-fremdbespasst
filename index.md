@@ -69,6 +69,7 @@
 ## Für jüngere GEschwister
  * [ferienKREATIV: Stempelworkshop – Stempel schneiden und Bilder drucken](https://www.treffpunktfreizeit.de/angebote/ferienkreativ-stempelworkshop-stempel-schneiden-und-bilder-drucken/); 13.-14. Juli (09:00-15:00 Uhr); 30,- Euro
  * [Nulldrei Kiezkicker Sommercamp I](https://babelsberg03.de/nachwuchs/nulldrei-fussballcamps/anmeldung/); 17.-21.07.2023 (09:30-15:30 Uhr); 170,- Euro
+ * [Sommerferienspaß mit Sommerferienpass](https://bibliothek.potsdam.de/sommerferienspass-mit-sommerferienpass); 02.08.2023 (10:00-11:00 Uhr); kostenfrei
  * [Abenteuer Natur](https://volkspark-potsdam.de/feriencamps/abenteuer-natur/); 21.–25.08.2023 (Montag bis Freitag 09:00–16:00 Uhr), 140,- Euro
  * [Nulldrei Kiezkicker Sommercamp II](https://babelsberg03.de/nachwuchs/nulldrei-fussballcamps/anmeldung/); 24.-28.07.2023 (09:30-15:30 Uhr); 170,- Euro
  * [Kids & Youth-Athletic-Camps](https://potsdamer-laufclub.de/training/kids-athletics-camps/); 21.-25.08.2023 (09:30-15:30 Uhr); 50,- Euro
