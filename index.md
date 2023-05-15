@@ -9,7 +9,7 @@
  * [Schauspielworkshop - Hotzenplotz](https://www.activityschauspielschule.de/workshops/schauspielworkshop-sommerferien-2023-ab-10-jahren/); 17.-21.07.2023 (10:00-14:00 Uhr); zwischen 196,- Euro und 245,- Euro 
  * [Zirkusferien im Volkspark](https://volkspark-potsdam.de/feriencamps/circus-montelino-ferienwochen/); 17.–21.07.2023 (Montag bis Freitag, 10:00–16:00 Uhr); 125,- Euro
  * [Stadt der Kinder](http://www.stadtderkinder-potsdam.de/); 17.-23.07.2023 (09:00-16:00 Uhr); kostenfrei
- * [Summer Park Move #1](https://lindenpark.de/events/summer-park-move-1/); 18.-20.07.2023 (09:00-15:00 Uhr); 40,- Euro
+ * [Summer Park Move #1 (Skateboard & BMX)](https://lindenpark.de/events/summer-park-move-1/); 18.-20.07.2023 (09:00-15:00 Uhr); 40,- Euro
  * [10-Finger-System an zwei Vormittagen](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-5D220J/kursname/10-Finger-System%20an%20zwei%20Vormittagen/kategorie-id/229/#inhalt); 24.-25.07.2023 (09:00-12:15 Uhr); 56,90 Euro
  * [??? ! - Chinesisch A1](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-4M301J/kursname/-%20Chinesisch%20A1/kategorie-id/229/#inhalt); 24.-26.07.2023 (09:30-12:45 Uhr); 49,- Euro
  * [Fußballcamp im Volkspark](https://volkspark-potsdam.de/feriencamps/fussballcamps/); 24.–28.07.2023 (Montag bis Freitag 09:00–16:00 Uhr); 189,- Euro
@@ -25,7 +25,7 @@
  * [Stop Motion Film Produktion mit LEGO](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-5D225J/kursname/Stop%20Motion%20Film%20Produktion%20mit%20LEGO/kategorie-id/229/#inhalt); 31.07.-04.08.2023 (09:30-13:45 Uhr); 94,50 Euro
  * [Schauspielworkshop - Der kleine Vampir](https://www.activityschauspielschule.de/workshops/schauspielworkshop-sommerferien-2023-ab-10-jahren-3/); 31.07.-04.08.2023 (10:00-14:00 Uhr); zwischen 196,- Euro und 245,- Euro
  * [Zirkusferien im Volkspark Mädchenwoche](https://volkspark-potsdam.de/feriencamps/circus-montelino-ferienwochen/); 31.07–04.08.2023 (Montag bis Freitag, 10:00–16:00 Uhr); 125,- Euro
- * [Summer Park Move #2](https://lindenpark.de/events/summer-park-move-2/); 01.-03.08.2023 (09:00-15:00); 40,- Euro
+ * [Summer Park Move #2 (Skateboard & BMX)](https://lindenpark.de/events/summer-park-move-2/); 01.-03.08.2023 (09:00-15:00); 40,- Euro
  * [Sommer, Sonne, Film - Deutsch-polnische Jugendbegegnung](https://hochdrei.org/index.php?article_id=38&clang=0&seminar_id=570); 05.-12.08.2023 (mit Übernachtung); 175,- Euro
  * [Zirkusferien im Volkspark](https://volkspark-potsdam.de/feriencamps/circus-montelino-ferienwochen/); 07.–11.08.2023 (Montag bis Freitag, 10:00–16:00 Uhr); 125,- Euro
  * [¡Bienvenidos! - Spanisch A1](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-4D165J/kursname/Bienvenidos%20-%20Spanisch%20A1/kategorie-id/229/#inhalt); 07.-09.08.2023 (09:30-12:45 Uhr); 49,- Euro
@@ -48,7 +48,6 @@
  * [Zirkusferien im Volkspark](https://volkspark-potsdam.de/feriencamps/circus-montelino-ferienwochen/); 21.–25.08.2023 (Montag bis Freitag, 10:00–16:00 Uhr); 125,- Euro
  * [ferienCAMP: Die Stadtpiraten und der wilde Sommer](https://www.treffpunktfreizeit.de/angebote/feriencamp-die-stadtpiraten-und-der-wilde-sommer/); 21.-25.08.2023, mit Übernachtung; zwischen 60,- Euro und 100,- Euro
  * [Fotoclub: Mit der Kamera unterwegs](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-2H105J/kursname/Fotoclub%20Mit%20der%20Kamera%20unterwegs/kategorie-id/229/#inhalt); 23.-24.08.2023 (10:00-14:00 Uhr); 42,- Euro
-
 
 ## Eher kurze Geschichten
  * [Inklusiver Makramee Workshop](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-2G040J/kursname/Inklusiver%20Makramee%20Workshop/kategorie-id/229/#inhalt); 17.07.2023 (10:00-14:00 Uhr); 17,50 Euro
@@ -74,5 +73,6 @@
  * [Nulldrei Kiezkicker Sommercamp II](https://babelsberg03.de/nachwuchs/nulldrei-fussballcamps/anmeldung/); 24.-28.07.2023 (09:30-15:30 Uhr); 170,- Euro
  * [Kids & Youth-Athletic-Camps](https://potsdamer-laufclub.de/training/kids-athletics-camps/); 21.-25.08.2023 (09:30-15:30 Uhr); 50,- Euro
  * [Nulldrei Kiezkicker Sommercamp III](https://babelsberg03.de/nachwuchs/nulldrei-fussballcamps/anmeldung/); 23.-25.08.2023 (09:30-15:30 Uhr); 130,- Euro
-##### blabla
+
+### blabla
 Ich kann mich vertippt haben, also bitte Daten, Preise etc. selbst prüfen. HochDrei e.V. ist mein Verein.
