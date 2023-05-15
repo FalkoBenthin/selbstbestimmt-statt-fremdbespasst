@@ -66,7 +66,7 @@
  * [Ferienkino Thalia](https://www.thalia-potsdam.de/kinderjugend/ferienkino/); 
  * [Ferien in der Biosphäre Potsdam](https://www.biosphaere-potsdam.de/kalender/ferienprogramm/)
 
-## Für jüngere GEschwister
+## Für jüngere Geschwister
  * [ferienKREATIV: Stempelworkshop – Stempel schneiden und Bilder drucken](https://www.treffpunktfreizeit.de/angebote/ferienkreativ-stempelworkshop-stempel-schneiden-und-bilder-drucken/); 13.-14. Juli (09:00-15:00 Uhr); 30,- Euro
  * [Nulldrei Kiezkicker Sommercamp I](https://babelsberg03.de/nachwuchs/nulldrei-fussballcamps/anmeldung/); 17.-21.07.2023 (09:30-15:30 Uhr); 170,- Euro
  * [Sommerferienspaß mit Sommerferienpass](https://bibliothek.potsdam.de/sommerferienspass-mit-sommerferienpass); 02.08.2023 (10:00-11:00 Uhr); kostenfrei
