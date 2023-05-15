@@ -1,5 +1,9 @@
 ## Längeres, meist über mehrere Tage
+ * [ferienKREATIV: Stempelworkshop – Stempel schneiden und Bilder drucken](https://www.treffpunktfreizeit.de/angebote/ferienkreativ-stempelworkshop-stempel-schneiden-und-bilder-drucken/); 13.-14. Juli (09:00-15:00 Uhr); 30,- Euro
+ * [ferienTANZ: Schnupper-Workshop FerienTanzWoche N°19 „change“](https://www.treffpunktfreizeit.de/angebote/ferientanz-schnupper-workshop-ferientanzwoche-n19-change/); 13.-14.07.2023 (10:00-13:00 Uhr); kostenfrei
  * [Ready, steady, go - Deutsch-polnische Jugendbegnung (13-17)](https://hochdrei.org/index.php?article_id=38&clang=0&seminar_id=557); 15.-22.07.2023 (mit Übernachtung); 175,- Euro 
+ * [ferienKREATIV: Skulpturenwerkstatt – Objekte aus Draht und Pappmache](https://www.treffpunktfreizeit.de/angebote/ferienkreativ-skulpturenwerkstatt-objekte-aus-maschendraht/); 17.-20.07.2023 (09:00-15:00 Uhr); 60,- Euro
+ * [ferienTHEATER: Ferientheaterwerkstatt „Ronja…Potsdam 2023“](https://www.treffpunktfreizeit.de/angebote/ferientheater-ferientheaterwerkstatt/); 17.-21.07.2023 (09:00-16:00 Uhr); kostenfrei
  * [Fußballcamp im Volkspark](https://volkspark-potsdam.de/feriencamps/fussballcamps/); 17.–21.07.2023 (Montag bis Freitag 09:00–16:00 Uhr); 189,- Euro
  * [Sommer Ferien Kurse 2023 :: Klangfarben](https://www.kunstgriff23.de/2023/04/05/sommer-ferien-kurs-2021/); 17.-21.07.2023 (09:30-13:00 Uhr); 235,- Euro
  * [Schauspielworkshop - Hotzenplotz](https://www.activityschauspielschule.de/workshops/schauspielworkshop-sommerferien-2023-ab-10-jahren/); 17.-21.07.2023 (10:00-14:00 Uhr); zwischen 196,- Euro und 245,- Euro 
@@ -8,6 +12,8 @@
  * [10-Finger-System an zwei Vormittagen](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-5D220J/kursname/10-Finger-System%20an%20zwei%20Vormittagen/kategorie-id/229/#inhalt); 24.-25.07.2023 (09:00-12:15 Uhr); 56,90 Euro
  * [??? ! - Chinesisch A1](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-4M301J/kursname/-%20Chinesisch%20A1/kategorie-id/229/#inhalt); 24.-26.07.2023 (09:30-12:45 Uhr); 49,- Euro
  * [Fußballcamp im Volkspark](https://volkspark-potsdam.de/feriencamps/fussballcamps/); 24.–28.07.2023 (Montag bis Freitag 09:00–16:00 Uhr); 189,- Euro
+ * [ferienTECHNIK: Roboter konstruieren](https://www.treffpunktfreizeit.de/angebote/ferientechnik-roboter-konstruieren-2/); 24.-28.07.2023 (09:00-15:00 Uhr); 75,- Euro
+ * [ferienKREATIV: Mediensommer 2023 Kopfkino – Filmworkshops](https://www.treffpunktfreizeit.de/angebote/ferienkreativ-mediensommer-2023-kopfkino-filmworkshops/); 24.-28.07.2023 (09:00-16:00 Uhr); voraussichtlich kostenfrei
  * [Schauspielworkshop - Feodoras Schatz](https://www.activityschauspielschule.de/workshops/schauspielworkshop-sommerferien-2023-ab-10-jahren-2/); 24.-28.07.2023 (10:00-14:00 Uhr); zwischen 196,- Euro und 245,- Euro
  * [Zirkusferien im Volkspark](https://volkspark-potsdam.de/feriencamps/circus-montelino-ferienwochen/); 24.–28.07.2023 (Montag bis Freitag, 10:00–16:00 Uhr); 125,- Euro
  * [Landesweites Rockcamp](https://lindenpark.de/events/landesweites-rockcamp-2023/); 24.-28.07.2023 (mit Übernachtung); 99,- Euro
@@ -25,17 +31,21 @@
  * [Babysitterkurs](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-1H105J/kursname/Babysitterkurs/kategorie-id/229/#inhalt); 07.-08.08.2023 (10:00-13:30 Uhr); 28,- Euro
  * [Schauspielworkshop - (K)ein Mord in Aussicht](https://www.activityschauspielschule.de/workshops/schauspielworkshop-sommerferien-2023-ab-10-jahren-5/); 07.-11.08.2023 (10:00-14:00 Uhr); zwischen 196,- Euro und 245,- Euro
  * [Jonglage & Co](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-3B010J/kursname/Jonglage%20Co/kategorie-id/229#inhalt); 14.-16.08.2023 (10:00-11:30 Uhr); 21,- Euro
+ * [ferienKREATIV: Nähwerkstatt – Filzen ohne Wenn und Aber!](https://www.treffpunktfreizeit.de/angebote/ferienkreativ-naehwerkstatt-filzen-ohne-wenn-und-aber/); 14.-17.08.2023 (10:00-13:00); 40,- Euro
  * [Fußballcamp im Volkspark](https://volkspark-potsdam.de/feriencamps/fussballcamps/); 14.–18.08.2023 (Montag bis Freitag 09:00–16:00 Uhr); 189,- Euro
  * [Schauspielworkshop - MILLIONEN von Frank Cottrell Boyce](https://www.activityschauspielschule.de/workshops/schauspielworkshop-sommerferien-2023-ab-10-jahren-6/); 14.-18.08.2023 (10:00-14:00 Uhr); zwischen 196,- Euro und 245,- Euro
  * [Zirkusferien im Volkspark](https://volkspark-potsdam.de/feriencamps/circus-montelino-ferienwochen/); 14.–18.08.2023 (Montag bis Freitag, 10:00–16:00 Uhr); 125,- Euro
+ * [ferienTANZ: Ferientanzwoche N°19 „change“](https://www.treffpunktfreizeit.de/angebote/ferientanz-ferientanzwoche-n19-change/); 14.-19.08.2023 (09:00-16:00 Uhr); kostenfrei
  * [Schmeckt nach Sommer! - Deutsch-polnische Kinderbegegnung](https://hochdrei.org/index.php?article_id=38&clang=0&seminar_id=561); 19.-26.08.2023 (mit Übernachtung); 175,- Euro
- * [Manga zeichnen](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-2D220J/kursname/Manga%20zeichnen/kategorie-id/229/#inhalt); 21.-22.08.2023 (10:00-14:00 Uhr); 42,- Euro 
+ * [Manga zeichnen](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-2D220J/kursname/Manga%20zeichnen/kategorie-id/229/#inhalt); 21.-22.08.2023 (10:00-14:00 Uhr); 42,- Euro
+ * [ferienKREATIV: Nähwerkstatt – Upcycling](https://www.treffpunktfreizeit.de/angebote/ferienkreativ-naehwerkstatt-upcycling-2/); 21.-24.08.2023 (10:00-13:00 Uhr); 40,- Euro
  * [Fußballcamp im Volkspark](https://volkspark-potsdam.de/feriencamps/fussballcamps/); 21.–25.08.2023 (Montag bis Freitag 09:00–16:00 Uhr); 189,- Euro
  * [Zirkuswoche im Werkhaus Potsdam](https://buchen.inwole.de/werkhauspotsdam/adjax/); 21.-25.08.2023 (09:00-16:00 Uhr); kostenlos
  * [Sommer Ferien Kurse 2023 :: Klangfarben](https://www.kunstgriff23.de/2023/04/05/sommer-ferien-kurs-2021/); 21.-25.07.2023 (09:30-13:00 Uhr); 235,- Euro
  * [Girls Camp](https://lindenpark.de/events/girls-camp-2/); 21.-25.08.2023 (10:00-15:00 Uhr); 90,- Euro
  * [Schauspielworkshop - Der Fluch der Kokosnuss](https://www.activityschauspielschule.de/workshops/schauspielworkshop-sommerferien-2023-ab-10-jahren-4/); 21.-25.08.2023 (10:00-14:00 Uhr); zwischen 196,- und 245,- Euro
  * [Zirkusferien im Volkspark](https://volkspark-potsdam.de/feriencamps/circus-montelino-ferienwochen/); 21.–25.08.2023 (Montag bis Freitag, 10:00–16:00 Uhr); 125,- Euro
+ * [ferienCAMP: Die Stadtpiraten und der wilde Sommer](https://www.treffpunktfreizeit.de/angebote/feriencamp-die-stadtpiraten-und-der-wilde-sommer/); 21.-25.08.2023, mit Übernachtung; zwischen 60,- Euro und 100,- Euro
  * [Fotoclub: Mit der Kamera unterwegs](https://vhs.potsdam.de/programm/junge-vhs/kw/bereich/kursdetails/kurs/S23-2H105J/kursname/Fotoclub%20Mit%20der%20Kamera%20unterwegs/kategorie-id/229/#inhalt); 23.-24.08.2023 (10:00-14:00 Uhr); 42,- Euro
 
 
@@ -55,7 +65,8 @@
  * [Ferienkino Thalia](https://www.thalia-potsdam.de/kinderjugend/ferienkino/); 
  * [Ferien in der Biosphäre Potsdam](https://www.biosphaere-potsdam.de/kalender/ferienprogramm/)
 
-##Für jüngere GEschwister
+## Für jüngere GEschwister
+ * [ferienKREATIV: Stempelworkshop – Stempel schneiden und Bilder drucken](https://www.treffpunktfreizeit.de/angebote/ferienkreativ-stempelworkshop-stempel-schneiden-und-bilder-drucken/); 13.-14. Juli (09:00-15:00 Uhr); 30,- Euro
  * [Nulldrei Kiezkicker Sommercamp I](https://babelsberg03.de/nachwuchs/nulldrei-fussballcamps/anmeldung/); 17.-21.07.2023 (09:30-15:30 Uhr); 170,- Euro
  * [Abenteuer Natur](https://volkspark-potsdam.de/feriencamps/abenteuer-natur/); 21.–25.08.2023 (Montag bis Freitag 09:00–16:00 Uhr), 140,- Euro
  * [Nulldrei Kiezkicker Sommercamp II](https://babelsberg03.de/nachwuchs/nulldrei-fussballcamps/anmeldung/); 24.-28.07.2023 (09:30-15:30 Uhr); 170,- Euro
